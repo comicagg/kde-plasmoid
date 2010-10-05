@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Comicagg notifier
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=comicagg-notifier
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Jesús Fernández
+X-KDE-PluginInfo-Email=esu@kumomi.es
+X-KDE-PluginInfo-Name=comicagg-notifier
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-Depends=Python-kde4, plasma-scriptengine-python
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
