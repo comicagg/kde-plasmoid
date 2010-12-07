@@ -14,4 +14,3 @@ X-KDE-PluginInfo-Website=http://plasma.kde.org/
 X-KDE-PluginInfo-Depends=Python-kde4, plasma-scriptengine-python
 X-KDE-PluginInfo-License=GPL
 X-KDE-PluginInfo-EnabledByDefault=true
-
